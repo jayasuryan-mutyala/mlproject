@@ -1,6 +1,7 @@
 from setuptools import find_packages,setup
 from typing import List 
 
+# find packages automatically finds any packages within any folder that folder should contain init.py
 
 HYPHEN_E_DOT = '-e .'
 
